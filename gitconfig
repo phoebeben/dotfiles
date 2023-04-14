@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = phoebe.benbow@hotmail.co.uk
+	name = Phoebe Benbow
